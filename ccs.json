@@ -1,0 +1,45 @@
+{
+    "room": "https://plug.dj/vaporwave-e-lo-fi",
+    "author": "【ａｎｄｙ】",
+    "icon": null,
+    "css": "https://raw.githack.com/MamaeFalhei/vaporwave-e-lo-fi/master/room.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": "#F5A9F2",
+        "ambassador": "#A9F5BC",
+        "host": "#2EFEF7",
+        "cohost": "#A9F5F2",
+        "manager": "#2EFE2E",
+        "bouncer": "#DF01D7",
+        "rdj": "#D0A9F5",
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": "#81DAF5",
+        "user": "#58FAAC"
+    },
+    "images": {
+        "background": "https://thumbs.gfycat.com/ScientificClassicAnteater-poster.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "null",
+        "cohost": "null",
+        "manager": "null",
+        "bouncer": "null",
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
