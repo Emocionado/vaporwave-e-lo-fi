@@ -27,14 +27,14 @@
         "user": "#58FAAC"
     },
     "images": {
-        "background": "https://thumbs.gfycat.com/ScientificClassicAnteater-poster.jpg",
+        "background": "https://cdn.radiant.dj/rcs/bg/12.png",
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "null",
-        "cohost": "null",
-        "manager": "null",
-        "bouncer": "null",
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
         "rdj": null,
         "subscriber": null,
         "silversubscriber": null
