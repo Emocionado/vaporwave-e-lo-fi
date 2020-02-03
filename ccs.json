@@ -2,7 +2,7 @@
     "room": "vaporwave-e-lo-fi",
     "author": "【ａｎｄｙ】",
     "icon": null,
-    "css": "https://raw.githack.com/MamaeFalhei/vaporwave-e-lo-fi/master/room.css",
+    "css": "https://raw.githack.com/Emocionado/vaporwave-e-lo-fi/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -27,7 +27,7 @@
         "user": "#58FAAC"
     },
     "images": {
-        "background": "https://puu.sh/DKoMG/36a9c14af0.png",
+        "background": null,
         "playback": null,
         "admin": null,
         "ambassador": null,
